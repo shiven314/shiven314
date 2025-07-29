@@ -1,5 +1,5 @@
 ## Hi there 👋
-I imput negative integers in C++ 🤡
+I input negative integers in C++ 🤡
 <!--
 **shiven314/shiven314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
